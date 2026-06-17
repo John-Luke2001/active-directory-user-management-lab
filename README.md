@@ -118,6 +118,25 @@ hostname
 ## Screenshots
 
 Screenshots are included in the `/screenshots` folder and document each major step of the lab, including server setup, Active Directory configuration, user management, password reset, group membership, domain join, and domain user verification.
+## Screenshot Evidence
+
+The `/screenshots` folder includes proof of:
+
+- Windows Server installation
+- Server rename to AD-SERVER
+- Active Directory Domain Services installation
+- Domain controller creation
+- Active Directory Users and Computers
+- Organizational Units created
+- Test users created
+- Password reset workflow
+- Security group creation
+- User added to security group
+- Disabled user account workflow
+- Windows 11 client static IP and DNS configuration
+- Client connection test to domain controller
+- Windows 11 client joined to johnlab.local
+- Domain user login verification using Command Prompt
 
 ## What I Learned
 
