@@ -134,8 +134,8 @@ The `/screenshots` folder includes proof of:
 - User added to security group
 - Disabled user account workflow
 - Windows 11 client static IP and DNS configuration
-- Client connection test to domain controller
-- Windows 11 client joined to johnlab.local
+- Client connectivity test to domain controller
+- Windows 11 client joined to the johnlab.local domain
 - Domain user login verification using Command Prompt
 
 ## What I Learned
